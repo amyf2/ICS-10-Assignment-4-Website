@@ -1,0 +1,83 @@
+
+.pawonleadingpage{
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right:auto;
+    display: block;
+    align-items: center;
+}
+a{
+    text-decoration: solid;
+
+}
+.botton {
+    padding: 10px;
+    background-color:#1f66ff;
+    border-radius: 10px;
+    font-family:cursive;
+    font-style: oblique;
+    color: white;
+}
+header {
+width: 100vw;
+height: 100vw;
+background-image: url('images/background\ fullpage.jpeg');
+background-position: bottom;
+background-size: cover;
+opacity: 0.7;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.leadingpagetext {
+    margin-bottom: 300 px;
+    margin-top: 100 px;
+    color: black;
+    text-align: center;
+    font-family: cursive;
+}
+
+.navigation{
+    ul {
+        list-style-type: none;
+        margin: 20;
+        padding: 30;
+        overflow: hidden;
+        background-color:lightblue;
+        position:fixed;
+        top: 0;
+        width: 100%;
+        font-family: cursive;
+
+    }
+   
+    
+
+
+}
+.navigation a{
+    color:black;
+    padding: 20px 20px;
+    float: left;
+    
+}
+.navigation a:hover {
+    background-color:antiquewhite
+}
+
+.contact us{
+    list-style-type: none;
+        margin: 20;
+        padding: 30;
+        overflow: hidden;
+        background-color:lightblue;
+        position:fixed;
+        top: 0;
+        width: 100%;
+        font-family: cursive;
+}
+
+}
+
+
